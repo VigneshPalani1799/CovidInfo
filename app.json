@@ -1,0 +1,12 @@
+{
+   "expo": {
+    "name": "CovidInfo",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "CovidInfo",
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    }
+   }
+ }
